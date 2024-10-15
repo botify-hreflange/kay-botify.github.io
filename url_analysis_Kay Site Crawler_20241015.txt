@@ -1,0 +1,202 @@
+URL Analysis Results
+
+Insights:
+- Total URLs analyzed: 58,069
+- Most common protocol: https
+- Most common subdomain: www
+- Most common domain: kay.com
+- Most common path: /collections/memories-moments-magic-collection/c/9000001875
+- Most common path without parameters: /collections/memories-moments-magic-collection/c/9000001875
+- Most common query parameter: query
+- Average path depth: 4.00
+- Average number of query parameters: 0.01
+
+Segmentation Suggestions:
+@p
+path */p/*
+
+@c
+path */c/*
+
+@store
+path */store/*
+
+@l
+path */l/*
+
+@earrings
+path */earrings/*
+
+@necklaces
+path */necklaces/*
+
+@bracelets
+path */bracelets/*
+
+@collections
+path */collections/*
+
+@fl
+path */fl/*
+
+@ca
+path */ca/*
+
+Botify Segmentation Rules:
+[segment:auto_generated]
+
+@p
+path */p/*
+
+@c
+path */c/*
+
+@store
+path */store/*
+
+@l
+path */l/*
+
+@earrings
+path */earrings/*
+
+@necklaces
+path */necklaces/*
+
+@bracelets
+path */bracelets/*
+
+@collections
+path */collections/*
+
+@fl
+path */fl/*
+
+@ca
+path */ca/*
+
+Full Analysis:
+subdomains:
+  www: 56,084
+  stores: 1,984
+  credit: 1
+
+domains:
+  kay.com: 58,069
+
+paths:
+  /collections/memories-moments-magic-collection/c/9000001875: 12
+  /buy-more-save-more-sale/c/9000001117: 11
+  /collections/all-lab-created-diamonds-collection/c/9000001796: 10
+  /clearance/c/9000000376: 8
+  /c/9000001292: 8
+  /holiday-gifts-all/c/9000001313: 7
+  /clearance/clearance/c/9000000388: 7
+  /name-necklace/p/V-NEC15375K: 6
+  /pair-of-name-hoop-earrings/p/V-NE90599KA: 6
+  /diamondcut-name-necklace/p/V-NP90580CHKA: 6
+  /name-bracelet/p/V-NB91693KA: 6
+  /sparkling-savings/c/9000001780: 6
+  /diamond/c/9000000710: 6
+  /watches/c/9000000232: 6
+  /sale/c/9000001882: 6
+  /collections/now-and-forever-collections/c/9000000323: 6
+  /collections/monique-lhuillier-bliss-collection/c/9000001537: 5
+  /c/9000000311: 5
+  /: 4
+  /earrings/new-arrivals-earrings/c/9000000201: 4
+
+paths_without_params:
+  /collections/memories-moments-magic-collection/c/9000001875: 12
+  /buy-more-save-more-sale/c/9000001117: 11
+  /collections/all-lab-created-diamonds-collection/c/9000001796: 10
+  /clearance/c/9000000376: 8
+  /c/9000001292: 8
+  /holiday-gifts-all/c/9000001313: 7
+  /clearance/clearance/c/9000000388: 7
+  /name-necklace/p/V-NEC15375K: 6
+  /pair-of-name-hoop-earrings/p/V-NE90599KA: 6
+  /diamondcut-name-necklace/p/V-NP90580CHKA: 6
+  /name-bracelet/p/V-NB91693KA: 6
+  /sparkling-savings/c/9000001780: 6
+  /diamond/c/9000000710: 6
+  /watches/c/9000000232: 6
+  /sale/c/9000001882: 6
+  /collections/now-and-forever-collections/c/9000000323: 6
+  /collections/monique-lhuillier-bliss-collection/c/9000001537: 5
+  /c/9000000311: 5
+  /: 4
+  /earrings/new-arrivals-earrings/c/9000000201: 4
+
+query_params:
+  query: 150
+  gbapiv2: 146
+  bvroute: 16
+  sortCode: 9
+  bvstate: 6
+  client: 2
+  product: 2
+
+file_extensions:
+
+segments:
+  p: 51,657
+  c: 2,288
+  store: 1,205
+  l: 498
+  earrings: 223
+  necklaces: 197
+  bracelets: 168
+  collections: 161
+  fl: 141
+  ca: 138
+  tx: 131
+  engagement: 118
+  oh: 118
+  pa: 102
+  ny: 101
+  watches: 99
+  rings: 99
+  wedding: 97
+  US-FL: 91
+  ga: 91
+
+protocol:
+  https: 58,067
+  http: 2
+
+path_length:
+  4: 54,492
+  5: 1,974
+  3: 1,046
+  2: 471
+  6: 85
+  7: 1
+
+query_param_count:
+  0: 57,889
+  2: 147
+  1: 31
+  3: 2
+
+Ngram Analysis:
+  /store: 1,205
+  /l: 497
+  /fl: 141
+  /ca: 138
+  /tx: 131
+  /oh: 118
+  /earrings: 117
+  /collections: 112
+  l/earrings: 106
+  /pa: 102
+  /ny: 101
+  l/necklaces: 100
+  /necklaces: 97
+  /engagement: 95
+  l/bracelets: 93
+  store/US-FL: 91
+  /ga: 91
+  /c: 84
+  store/US-TX: 82
+  /nc: 82

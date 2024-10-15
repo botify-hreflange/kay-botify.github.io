@@ -1,0 +1,255 @@
+URL Analysis Results
+
+Insights:
+- Total URLs analyzed: 241,816
+- Most common protocol: https
+- Most common subdomain: www
+- Most common domain: kay.com
+- Most common path: /store-finder/find/bopis/pdp
+- Most common path without parameters: /store-finder/find/bopis/pdp
+- Most common query parameter: cid
+- Most common file extension: jpg
+- Average path depth: 4.12
+- Average number of query parameters: 1.16
+
+Segmentation Suggestions:
+@p
+path */p/*
+
+@clearance
+path */clearance/*
+
+@c
+path */c/*
+
+@processed
+path */processed/*
+
+@productimages
+path */productimages/*
+
+@9000000388
+path */9000000388/*
+
+@store-finder
+path */store-finder/*
+
+@en
+path */en/*
+
+@kaystore
+path */kaystore/*
+
+@find
+path */find/*
+
+Botify Segmentation Rules:
+[segment:auto_generated]
+
+@p
+path */p/*
+
+@clearance
+path */clearance/*
+
+@c
+path */c/*
+
+@processed
+path */processed/*
+
+@productimages
+path */productimages/*
+
+@9000000388
+path */9000000388/*
+
+@store-finder
+path */store-finder/*
+
+@en
+path */en/*
+
+@kaystore
+path */kaystore/*
+
+@find
+path */find/*
+
+Full Analysis:
+subdomains:
+  www: 241,816
+
+domains:
+  kay.com: 241,816
+
+paths:
+  /store-finder/find/bopis/pdp: 4,988
+  /: 1,503
+  /customer-care: 634
+  /clearance: 609
+  /gift-ideas: 595
+  /personalized: 593
+  /wedding: 590
+  /payments: 590
+  /watches: 585
+  /earrings: 579
+  /rings: 576
+  /get-it-today: 576
+  /bracelets: 573
+  /necklace-jewelry: 568
+  /privacy-policy: 465
+  /virtual-consultation: 382
+  /engagement-rings: 381
+  /engagement/c/9000000001: 376
+  /kay-egift-card/p/V-15123: 360
+  /kay-safe-shipping: 349
+
+paths_without_params:
+  /store-finder/find/bopis/pdp: 4,988
+  /: 1,503
+  /customer-care: 634
+  /clearance: 609
+  /gift-ideas: 595
+  /personalized: 593
+  /wedding: 590
+  /payments: 590
+  /watches: 585
+  /earrings: 579
+  /rings: 576
+  /get-it-today: 576
+  /bracelets: 573
+  /necklace-jewelry: 568
+  /privacy-policy: 465
+  /virtual-consultation: 382
+  /engagement-rings: 381
+  /engagement/c/9000000001: 376
+  /kay-egift-card/p/V-15123: 360
+  /kay-safe-shipping: 349
+
+query_params:
+  cid: 68,134
+  icid: 42,242
+  mi_ecmp: 16,302
+  pristine: 15,133
+  utm_source: 11,985
+  utm_medium: 11,906
+  utm_campaign: 11,900
+  smtrctid: 11,288
+  dtm_em: 11,286
+  mi_u: 11,126
+  utm_term: 11,031
+  bxid: 9,687
+  ibx_source: 5,045
+  ueh: 5,045
+  productCode: 4,988
+  syte_ref: 4,465
+  item_group_id: 3,446
+  ForceServer: 2,838
+  s: 1,599
+  pp: 1,507
+
+file_extensions:
+  jpg: 15,185
+  %22: 3,739
+  101495: 167
+  js: 154
+  101496: 99
+  png: 91
+  100010: 90
+  css: 82
+  svg: 67
+  100011: 58
+  101501: 56
+  101499: 55
+  101502: 34
+  pdf: 32
+  100368: 30
+  100021: 27
+  15107: 25
+  100022: 24
+  woff2: 23
+  101498: 21
+
+segments:
+  p: 186,430
+  clearance: 25,443
+  c: 21,833
+  processed: 15,192
+  productimages: 15,125
+  9000000388: 12,279
+  store-finder: 5,280
+  en: 5,193
+  kaystore: 5,130
+  find: 4,988
+  bopis: 4,988
+  pdp: 4,988
+  book-appointment: 3,804
+  answers: 3,762
+  videos: 2,222
+  collections: 1,872
+  earrings: 1,095
+  store: 1,088
+  l: 1,078
+  rings: 1,056
+
+protocol:
+  https: 241,816
+
+path_length:
+  4: 196,871
+  7: 14,225
+  2: 14,188
+  5: 11,941
+  3: 2,922
+  6: 1,114
+  8: 327
+  11: 91
+  9: 49
+  13: 29
+  12: 21
+  10: 20
+  21: 14
+  53: 1
+  70: 1
+  124: 1
+  64: 1
+
+query_param_count:
+  1: 125,546
+  0: 93,447
+  6: 4,926
+  8: 4,434
+  10: 4,196
+  2: 3,169
+  3: 1,483
+  4: 1,330
+  9: 991
+  12: 790
+  13: 586
+  5: 486
+  11: 236
+  7: 186
+  14: 10
+
+Ngram Analysis:
+  /productimages: 15,125
+  productimages/processed: 15,125
+  clearance/c: 12,302
+  clearance/clearance: 12,280
+  c/9000000388: 12,279
+  p/clearance: 12,063
+  /store-finder: 5,269
+  /en: 5,163
+  en/kaystore: 5,130
+  store-finder/find: 4,988
+  find/bopis: 4,988
+  bopis/pdp: 4,988
+  /book-appointment: 3,800
+  book-appointment/answers: 3,762
+  /videos: 2,220
+  /: 1,503
+  videos/p: 1,409
+  /p: 1,093
+  /store: 1,088
+  /rings: 999
