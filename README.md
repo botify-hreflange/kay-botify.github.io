@@ -1,5 +1,5 @@
-# Welcome to My GitHub Pages Site
+# Segmentation Files for Kay
 
 ## Contents:
-- [Site Crawler](site_crawler/your_file_name.md)
-- [Log Analyzer](log_analyzer/your_file_name.md)
+- [Log Output](all_segmentation_Kay Logs_20241015.md)
+- [Site Crawler Output](all_segmentation_Kay Site Crawler_20241015.md)
